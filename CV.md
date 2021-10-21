@@ -8,9 +8,9 @@ Email: abibullaatawulla19@mails.ucas.ac.cn
 
 TEL: 0086 155 4185 3565     
 
-Personal Web: [https://aibibulaatawula.github.io/](https://aibibulaatawula.github.io/)
+Personal Web: [aibibulaatawula.github.io/](https://aibibulaatawula.github.io/)
 
-Github: [https://www.github.com/AibibulaAtawula](https://www.github.com/AibibulaAtawula)
+Github: [github.com/AibibulaAtawula](https://www.github.com/AibibulaAtawula)
 
 Nationality: Uygur                       
 
