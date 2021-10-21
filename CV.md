@@ -26,7 +26,6 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:center" colspan="1">Supervisors:Prof. Xi Zhou</td>
-        
         <td style="text-align:center"colspan="2"> GPA: - </td>
      </tr>
      <tr>
@@ -39,7 +38,6 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:center" colspan="1">Supervisors:Prof. Xi Zhou</td>
-        
         <td style="text-align:center"colspan="2"> GPA: 3.48/5</td>
      </tr>
      <tr>
@@ -52,10 +50,10 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:center" colspan="1">Supervisors:Prof. Wei Wang</td>
-        
-        <td style="text-align:center"colspan="2">Excellent (Ranked 1th.  among 150 students,  GPA: 3.35/5 </td>
+        <td style="text-align:center"colspan="2">Excellent (Ranked 1th.  among 150 students), GPA: 3.35/5 </td>
      </tr>
   </table>
+  <br/><br/><br/>
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Title:** Research and application of Multi-domain Dialogue State Tracking
