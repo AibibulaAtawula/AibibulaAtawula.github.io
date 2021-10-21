@@ -19,9 +19,9 @@ title: Abibulla Atawulla
   <div style='float:right'>computer application technology</div>
   <table border=1 width="100%" rules=none  frame=void border="0" cellpadding="0" cellspacing="0" align="center">
     <tr>
-        <td>Sept. 2021 - ongoing</td>
-            <td>phD candidate</td>
-            <td>computer application technology</td>
+        <td float=left>Sept. 2021 - ongoing</td>
+            <td float=left>phD candidate</td>
+            <td float=right>computer application technology</td>
     </tr>
 </table>
 
