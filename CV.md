@@ -26,7 +26,7 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:center" colspan="1">Supervisors:Prof. Xi Zhou</td>
-        <td style="text-align:center"colspan="2"> GPA: - </td>
+        <td style="text-align:center" colspan="2"> GPA: - </td>
      </tr>
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021<b/></td>
@@ -38,7 +38,7 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:center" colspan="1">Supervisors:Prof. Xi Zhou</td>
-        <td style="text-align:center"colspan="2"> GPA: 3.48/5</td>
+        <td style="text-align:center" colspan="2"> GPA: 3.48/5</td>
      </tr>
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2015 - Jul. 2019<b></td>
@@ -50,7 +50,7 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:center" colspan="1">Supervisors:Prof. Wei Wang</td>
-        <td style="text-align:center"colspan="2">Excellent (Ranked 1th.  among 150 students), GPA: 3.35/5 </td>
+        <td style="text-align:center" colspan="2">Excellent (Ranked 1th.  among 150 students), GPA: 3.35/5 </td>
      </tr>
   </table>
   <br/><br/><br/>
