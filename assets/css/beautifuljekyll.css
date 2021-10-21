@@ -10,11 +10,7 @@ layout: null
             text-align: justify;
             width: 100px;
         }
-        .justify > span
-        {
-            display: inline-block /* Opera */;
-            padding-left: 100%;
-        }
+   
 html {
   font-size: 100%
 }
