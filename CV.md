@@ -3,48 +3,19 @@ layout: page
 title: Abibulla Atawulla
 ---
 ## Personal Information
-<!-- <table style="margin-left: auto; margin-right: auto;" border="0" width="100%">
-  <tr>
-    <td style="text-align:left">Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></td>
-    <td style="text-align:right">TEL: 0086 155 4185 3565</td>
-  </tr>
-  <tr>
-   <td style="text-align:left">Personal Website: <a href="https://aibibulaatawula.github.io/">[aibibulaatawula.github.io]</a></td>
-    <td style="text-align:right">Github: <a href="https://www.github.com/AibibulaAtawula/">[AibibulaAtawula]</a></td>
-  </tr>
-   <tr>
-   <td style="text-align:left">Nationality: Uygur</td>
-    <td style="text-align:right">Sex: male  </td>
-  </tr>
-   <tr>
-    <td style="text-align:left">Birthplace: Xinjiang Uygur Autonomous Region, China</td>
-    <td style="text-align:right">Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China </td>
-  </tr>
-</table>  -->
-<td>
   <div style='float:left'>Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></div>
   <div style='float:right'>TEL: 0086 155 4185 3565</div>
-</td>
-<td>
+
   <div style='float:left'>Personal Website: <a href="https://aibibulaatawula.github.io/">[aibibulaatawula.github.io]</a></div>
   <div style='float:right'>Github: <a href="https://www.github.com/AibibulaAtawula/">[AibibulaAtawula]</a></div>
-</td>
-<td>
+
+
   <div style='float:left'>Birthplace: Xinjiang Uygur Autonomous Region, China</div>
   <div style='float:right'>Nationality: Uygur</div>
-</td>
-<td>
+
+
   <div style='float:left'>Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China</div>
   <div style='float:right'>Sex: male</div>
-</td>
-
-<!-- Personal Web: [aibibulaatawula.github.io](https://aibibulaatawula.github.io/)&ensp;&ensp;&ensp;Github: [AibibulaAtawula](https://www.github.com/AibibulaAtawula)
-
-Nationality: Uygur&ensp;&ensp;&ensp;Sex: male        
-
-Birthplace: Xinjiang Uygur Autonomous Region, China     
-
-Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China            -->
 
 ## Education
 
