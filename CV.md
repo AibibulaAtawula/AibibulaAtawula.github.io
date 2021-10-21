@@ -4,24 +4,15 @@ title: Abibulla Atawulla
 ---
 ## Personal Information
 <p align="left">Email: abibullaatawulla19@mails.ucas.ac.cn</p> <p align="right"> TEL: 0086 155 4185 3565</p>
-    <table border="0" width="100%" >
-        <tr>
-            <td>
-               Email: abibullaatawulla19@mails.ucas.ac.cn
-            </td>
-            <td>
-                 TEL: 0086 155 4185 3565
-            </td>
-        </tr>
-    </table>
+
 <table style="margin-left: auto; margin-right: auto;" border="0" width="100%">
   <tr>
-    <td style="text-align:left">Email: abibullaatawulla19@mails.ucas.ac.cn</td>
-    <td style="text-align:right">0086 155 4185 3565</td>
+    <td style="text-align:left">Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></td>
+    <td style="text-align:right">TEL: 0086 155 4185 3565</td>
   </tr>
   <tr>
    <td style="text-align:left">Personal Website: <a href="https://aibibulaatawula.github.io/">[aibibulaatawula.github.io]</a></td>
-    <td style="text-align:right">Github: <a href="https://www.github.com/AibibulaAtawula/">[AibibulaAtawula]</a>Github: [AibibulaAtawula]</a></td>
+    <td style="text-align:right">Github: <a href="https://www.github.com/AibibulaAtawula/">[AibibulaAtawula]</a></td>
   </tr>
    <tr>
    <td style="text-align:left">January</td>
