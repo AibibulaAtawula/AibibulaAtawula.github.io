@@ -29,7 +29,7 @@ title: Abibulla Atawulla
         <td style="text-align:center" colspan="2"> GPA: - </td>
      </tr>
      <tr>
-        <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021<b/></td>
+        <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021</b> </td>
         <td style="text-align:center" rowspan="1">ME.s. candidate</td>
         <td style="text-align:right" rowspan="1">computer application technology</td>
      </tr>
@@ -41,7 +41,7 @@ title: Abibulla Atawulla
         <td style="text-align:center" colspan="2"> GPA: 3.48/5</td>
      </tr>
      <tr>
-        <td style="text-align:lesft" colspan="1"><b>Sept. 2015 - Jul. 2019<b></td>
+        <td style="text-align:lesft" colspan="1"><b>Sept. 2015 - Jul. 2019</b></td>
         <td style="text-align:center" rowspan="1">SE.s. degree</td>
         <td style="text-align:right" rowspan="1">computer sciences and technology</td>
      </tr>
@@ -54,7 +54,7 @@ title: Abibulla Atawulla
      </tr>
   </table>
   <br/><br/><br/>
-- **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
+<!-- - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Title:** Research and application of Multi-domain Dialogue State Tracking
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Supervisors:**  Prof. Xi Zhou
@@ -68,9 +68,9 @@ title: Abibulla Atawulla
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Liaoning Technical University ](https://www.lntu.edu.cn)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Project Title:** Design and Implementation of Shopping Website Based on Django
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Supervisors:**  Dr. Wei Wang
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   Excellent (Ranked 1th.  among 150 students, GPA: 3.35/5
-## Skills
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   Excellent (Ranked 1th.  among 150 students, GPA: 3.35/5-->
 
+## Skills 
 ##### Language Ability:
 
 | LANGUAGE |  ABILITY  |                             NOTE                             |
