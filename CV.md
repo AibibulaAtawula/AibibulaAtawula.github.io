@@ -32,7 +32,7 @@ Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   GPA: -
 
-- **Sept. 2019 - Sept. 2021&ensp;&ensp;&ensp;&ensp;ME.s. degree&ensp;&ensp;&ensp;&ensp;computer application technology  **                 
+- **Sept. 2019 - Sept. 2021&ensp;&ensp;&ensp;&ensp;ME.s. degree&ensp;&ensp;&ensp;&ensp;computer application technology**                 
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn/)
 
@@ -42,7 +42,7 @@ Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Grade:**   GPA: 3.48/5
 
-- **Sept. 2015 - Jul. 2019&ensp;&ensp;&ensp;&ensp;BE.s. degree &ensp;&ensp;&ensp;&ensp; computer application technology **       
+- **Sept. 2015 - Jul. 2019&ensp;&ensp;&ensp;&ensp;BE.s. degree &ensp;&ensp;&ensp;&ensp; computer application technology**       
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Liaoning Technical University ](https://www.lntu.edu.cn)
 
