@@ -21,7 +21,7 @@ title: Abibulla Atawulla
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
   <div style='float:left'>Sept. 2021 - ongoing</div>
   <div style='float:center'>phD candidate</div>
-  <div style='float:center'>computer application technology</div>
+  <div style='float:right'>computer application technology</div>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
 
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Title:** Research and application of Multi-domain Dialogue State Tracking
