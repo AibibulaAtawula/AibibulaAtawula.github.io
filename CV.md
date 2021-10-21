@@ -14,9 +14,16 @@ title: Abibulla Atawulla
 <br/><br/><br/>
 
 <h2 id="education">EDUCATION</h2>
-  <div style='float:left'>Birthplace: Xinjiang Uygur Autonomous Region, China</div>
-  <div style='text-align:center'>Nationality: Uygur</div>
-  <div style='float:right'>Nationality: Uygur</div>
+  <div style='float:left'>Sept. 2021 - ongoing</div>
+  <div style='text-align:center'>phD candidate</div>
+  <div style='float:right'>computer application technology</div>
+  <table width="700" cellpadding="0" cellspacing="0" align="center">
+    <tr>
+        <td>第一段文字</td>
+            <td>第二段文字</td>
+            <td>第三段文字</td>
+    </tr>
+</table>
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
