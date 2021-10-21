@@ -15,12 +15,12 @@ title: Abibulla Atawulla
     <td style="text-align:right">Github: <a href="https://www.github.com/AibibulaAtawula/">[AibibulaAtawula]</a></td>
   </tr>
    <tr>
-   <td style="text-align:left">January</td>
-    <td style="text-align:right">>$100</td>
+   <td style="text-align:left">Nationality: Uygur</td>
+    <td style="text-align:right">Sex: male  </td>
   </tr>
    <tr>
-   <td style="text-align:left">January</td>
-    <td style="text-align:right">>$100</td>
+   <td style="text-align:left">Birthplace: Xinjiang Uygur Autonomous Region, China</td>
+    <td style="text-align:right">Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China </td>
   </tr>
 </table>
 
