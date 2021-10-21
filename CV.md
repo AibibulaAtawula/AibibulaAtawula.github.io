@@ -11,7 +11,7 @@ title: Abibulla Atawulla
   <div style='float:right'>Nationality: Uygur</div>
   <div style='float:left'>Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China</div>
   <div style='float:right'>Sex: male</div>
-<br/><br/>
+<br/><br/><br/>
 <h2 id="education">EDUCATION</h2>
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
