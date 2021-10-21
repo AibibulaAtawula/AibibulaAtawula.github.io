@@ -39,7 +39,7 @@ title: Abibulla Atawulla
          <tr>
             <td style="text-align:center" colspan="1">Supervisors:Prof. Xi Zhou</td>
             
-            <td style="text-align:center"colspan="2"> GPA: - </td>
+            <td style="text-align:center"colspan="2"> GPA: 3.48/5</td>
          </tr>
          <tr>
             <td style="text-align:lesft" colspan="1">Sept. 2015 - Jul. 2019</td>
