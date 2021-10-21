@@ -14,9 +14,9 @@ title: Abibulla Atawulla
 <br/><br/><br/>
 
 <h2 id="education">EDUCATION</h2>
-  <div style='float:left'>Sept. 2021 - ongoing</div>
+<!--   <div style='float:left'>Sept. 2021 - ongoing</div>
   <div style='text-align:center'>phD candidate</div>
-  <div style='float:right'>computer application technology</div>
+  <div style='float:right'>computer application technology</div> -->
   <table border=1 width="100%" rules=none  frame=void border="0" cellpadding="0" cellspacing="0" align="center">
     <tr>
         <td float=left>Sept. 2021 - ongoing</td>
