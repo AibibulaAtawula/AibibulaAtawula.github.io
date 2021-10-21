@@ -17,20 +17,24 @@ title: Abibulla Atawulla
 <!--   <div style='float:left'>Sept. 2021 - ongoing</div>
   <div style='text-align:center'>phD candidate</div>
   <div style='float:right'>computer application technology</div> -->
-  <table border=1 width="100%" rules=none  frame=void border="0" cellpadding="0" cellspacing="0" align="center">
+  <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0" align="center">
     <tr>
         <td float=left>Sept. 2021 - ongoing</td>
         <td float=left>phD candidate</td>
         <td float=right>computer application technology</td>
     </tr>
-      <tr>
-        <td float=left>Sept. 2021 - ongoing</td>
-        <td float=left>phD candidate</td>
+    <tr>
+        <td float=left>Sept. 2019 - Sept. 2021</td>
+        <td float=left>ME.s.  candidate</td>
+    </tr>
+    <tr>
+        <td float=left>Sept. 2019 - Sept. 2021</td>
+        <td float=left>ME.s.  candidate</td>
         <td float=right>computer application technology</td>
     </tr>
         <tr>
-        <td float=left>Sept. 2021 - ongoing</td>
-        <td float=left>phD candidate</td>
+        <td float=left>Sept. 2015 - Jul. 2019</td>
+        <td float=left>BE.s. degree</td>
         <td float=right>computer application technology</td>
     </tr>
 </table>
