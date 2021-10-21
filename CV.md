@@ -21,8 +21,17 @@ title: Abibulla Atawulla
     <td style="text-align:right">Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China </td>
   </tr>
 </table> 
-<td><p style='float:left'>Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></p>
-<p style='float:right'>TEL: 0086 155 4185 3565</p>
+<td>
+  <div style='float:left'>Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></div>
+  <div style='float:right'>TEL: 0086 155 4185 3565</div>
+</td>
+<td>
+  <div style='float:left'>Birthplace: Xinjiang Uygur Autonomous Region, China</div>
+  <div style='float:right'>Nationality: Uygur</div>
+</td>
+<td>
+  <div style='float:left'>Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China</div>
+  <div style='float:right'>Sex: male</div>
 </td>
 
 Personal Web: [aibibulaatawula.github.io](https://aibibulaatawula.github.io/)&ensp;&ensp;&ensp;Github: [AibibulaAtawula](https://www.github.com/AibibulaAtawula)
