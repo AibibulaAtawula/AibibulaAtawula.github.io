@@ -14,7 +14,7 @@ title: Abibulla Atawulla
 <br/><br/><br/>
 
 <h2 id="education">EDUCATION</h2>
-      <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
+<table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
          <tr>
             <td style="text-align:lesft" colspan="1">Sept. 2021 - ongoing</td>
             <td style="text-align:center" rowspan="1">phD candidate</td>
@@ -54,7 +54,7 @@ title: Abibulla Atawulla
             
             <td style="text-align:center"colspan="2">Excellent (Ranked 1th.  among 150 students,  GPA: 3.35/5 </td>
          </tr>
-      </table>
+ </table>
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
