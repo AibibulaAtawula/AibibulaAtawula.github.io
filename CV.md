@@ -3,8 +3,6 @@ layout: page
 title: Abibulla Atawulla
 ---
 ## Personal Information
-<p align="left">Email: abibullaatawulla19@mails.ucas.ac.cn</p> <p align="right"> TEL: 0086 155 4185 3565</p>
-
 <table style="margin-left: auto; margin-right: auto;" border="0" width="100%">
   <tr>
     <td style="text-align:left">Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></td>
@@ -22,7 +20,10 @@ title: Abibulla Atawulla
    <td style="text-align:left">Birthplace: Xinjiang Uygur Autonomous Region, China</td>
     <td style="text-align:right">Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China </td>
   </tr>
-</table>
+</table> 
+<td><p style='float:left'>男</p>
+<p style='float:right'>女</p>
+</td>
 
 Personal Web: [aibibulaatawula.github.io](https://aibibulaatawula.github.io/)&ensp;&ensp;&ensp;Github: [AibibulaAtawula](https://www.github.com/AibibulaAtawula)
 
