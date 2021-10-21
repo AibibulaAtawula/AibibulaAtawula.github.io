@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 ## Personal Information
-<div><p align="left">Email: abibullaatawulla19@mails.ucas.ac.cn</p> <p align="right"> TEL: 0086 155 4185 3565</p><div/>
+<p align="left">Email: abibullaatawulla19@mails.ucas.ac.cn</p> <p align="right"> TEL: 0086 155 4185 3565</p>
 
 Personal Web: [aibibulaatawula.github.io](https://aibibulaatawula.github.io/)&ensp;&ensp;&ensp;Github: [AibibulaAtawula](https://www.github.com/AibibulaAtawula)
 
