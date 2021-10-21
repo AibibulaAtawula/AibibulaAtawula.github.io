@@ -12,7 +12,7 @@ title: Abibulla Atawulla
   <div style='float:left'>Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China</div>
   <div style='float:right'>Sex: male</div>
   <br>
-
+  <br>
 ## Education
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
