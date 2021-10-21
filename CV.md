@@ -22,50 +22,45 @@ Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China
 
 ## Education
 
-- **Sept. 2021 - ongoing         phD candidate             computer application technology**
+- **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
 
-​                                       [University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
 
-​                                       **Title:** Research and application of Multi-domain Dialogue State Tracking
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Title:** Research and application of Multi-domain Dialogue State Tracking
 
-​                                       **Supervisors:**  Prof. Xi Zhou
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Supervisors:**  Prof. Xi Zhou
 
-​                                      **Grade:**   GPA: -
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   GPA: -
 
-- **Sept. 2019 - Sept. 2021     ME.s. degree                computer application technology**                 
+- **Sept. 2019 - Sept. 2021&ensp;&ensp;&ensp;&ensp;ME.s. degree&ensp;&ensp;&ensp;&ensp;computer application technology  **                 
 
-​                                      [University of Chinese Academy of Sciences ](https://www.ucas.ac.cn/)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn/)
 
-​                                      **Title:** Research and application of Multi-domain Dialogue State Tracking
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Title:** Research and application of Multi-domain Dialogue State Tracking
 
-​                                      **Supervisors:**  Prof. Xi Zhou
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Supervisors:**  Prof. Xi Zhou
 
-​                                      **Grade:**   GPA:3.48/5
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Grade:**   GPA: 3.48/5
 
-- **Sept. 2015 - Jul. 2019         BE.s. in computer application technology**       
+- **Sept. 2015 - Jul. 2019&ensp;&ensp;&ensp;&ensp;BE.s. degree &ensp;&ensp;&ensp;&ensp; computer application technology **       
 
-​                                       [Liaoning Technical University ](https://www.lntu.edu.cn)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Liaoning Technical University ](https://www.lntu.edu.cn)
 
-​                                       **Project Title:** Design and Implementation of Shopping Website Based on Django
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Project Title:** Design and Implementation of Shopping Website Based on Django
 
-​                                       **Supervisors:**  Dr. Wei Wang
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Supervisors:**  Dr. Wei Wang
 
-​                                      **Grade:**   Excellent (Ranked 1th. among 150 students, GPA: 3.35/5
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   Excellent (Ranked 1th.  among 150 students, GPA: 3.35/5
 
 ## Skills
 
 ##### Language Ability:
 
-| LANGUAGE |  ABILITY  |                     NOTE                      |
-| :------: | :-------: | :-------------------------------------------: |
-|  Uygur   | Excellent |                 Mother Tongue                 |
-| Chinese  | Excellent |              Education Language               |
-| English  |   Good    | CET4: 515   CET6: 439    IELTS: Under Testing |
+| LANGUAGE |  ABILITY  |                             NOTE                             |
+| :------: | :-------: | :----------------------------------------------------------: |
+|  Uygur   | Excellent |                        Mother Tongue                         |
+| Chinese  | Excellent |                      Education Language                      |
+| English  |   Good    | CET4: 515&ensp;&ensp;CET6: 439&ensp;&ensp;IELTS: Under Testing |
 
 
 
-
-
-
-
-[abibullaatawulla19@mails.ucas.ac.cn]: 
