@@ -18,8 +18,8 @@ title: Abibulla Atawulla
   <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2021 - ongoing</b></td>
-        <td style="text-align:center" rowspan="1">phD candidate</td>
-        <td style="text-align:right" rowspan="1">computer application technology</td>
+        <td style="text-align:center" rowspan="1"><b>phD candidate</b></td>
+        <td style="text-align:right" rowspan="1"><b>computer application technology</b></td>
      </tr>
      <tr>
         <td style="text-align:center" colspan="3">Title: Under Researching</td>
@@ -29,9 +29,9 @@ title: Abibulla Atawulla
         <td style="text-align:center" colspan="2"> GPA: - </td>
      </tr>
      <tr>
-        <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021</b> </td>
-        <td style="text-align:center" rowspan="1">ME.s. candidate</td>
-        <td style="text-align:right" rowspan="1">computer application technology</td>
+        <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021</b></td>
+        <td style="text-align:center" rowspan="1"><b>ME.s. candidate</b></td>
+        <td style="text-align:right" rowspan="1"><b>computer application technology</b></td>
      </tr>
      <tr>
         <td style="text-align:center" colspan="3">Title: Research and application of Multi-domain Dialogue State Tracking</td>
@@ -42,8 +42,8 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2015 - Jul. 2019</b></td>
-        <td style="text-align:center" rowspan="1">SE.s. degree</td>
-        <td style="text-align:right" rowspan="1">computer sciences and technology</td>
+        <td style="text-align:center" rowspan="1"><b>SE.s. degree</b></td>
+        <td style="text-align:right" rowspan="1"><b>computer sciences and technology</b></td>
      </tr>
      <tr>
         <td style="text-align:center" colspan="3">Project Title: Design and Implementation of Shopping Website Based on Django</td>
