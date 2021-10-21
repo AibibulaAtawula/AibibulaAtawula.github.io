@@ -28,6 +28,11 @@ title: Abibulla Atawulla
         <td float=left>phD candidate</td>
         <td float=right>computer application technology</td>
     </tr>
+        <tr>
+        <td float=left>Sept. 2021 - ongoing</td>
+        <td float=left>phD candidate</td>
+        <td float=right>computer application technology</td>
+    </tr>
 </table>
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
