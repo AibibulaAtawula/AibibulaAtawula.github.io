@@ -17,7 +17,7 @@ title: Abibulla Atawulla
 
   <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
      <tr>
-        <td style="text-align:lesft" colspan="1">Sept. 2021 - ongoing</td>
+        <td style="text-align:lesft" colspan="1"><b>Sept. 2021 - ongoing</b></td>
         <td style="text-align:center" rowspan="1">phD candidate</td>
         <td style="text-align:right" rowspan="1">computer application technology</td>
      </tr>
@@ -29,7 +29,7 @@ title: Abibulla Atawulla
         <td style="text-align:center"colspan="2"> GPA: - </td>
      </tr>
      <tr>
-        <td style="text-align:lesft" colspan="1">Sept. 2019 - Sept. 2021</td>
+        <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021<b/></td>
         <td style="text-align:center" rowspan="1">phD candidate</td>
         <td style="text-align:right" rowspan="1">computer application technology</td>
      </tr>
@@ -41,7 +41,7 @@ title: Abibulla Atawulla
         <td style="text-align:center"colspan="2"> GPA: 3.48/5</td>
      </tr>
      <tr>
-        <td style="text-align:lesft" colspan="1">Sept. 2015 - Jul. 2019</td>
+        <td style="text-align:lesft" colspan="1"><b>Sept. 2015 - Jul. 2019<b></td>
         <td style="text-align:center" rowspan="1">SE.s. degree</td>
         <td style="text-align:right" rowspan="1">computer sciences and technology</td>
      </tr>
