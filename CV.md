@@ -17,7 +17,7 @@ title: Abibulla Atawulla
   <div style='float:left'>Sept. 2021 - ongoing</div>
   <div style='text-align:center'>phD candidate</div>
   <div style='float:right'>computer application technology</div>
-  <table width="700" border="0" cellpadding="0" cellspacing="0" align="center">
+  <table border=1 width="100%" rules=none  frame=void border="0" cellpadding="0" cellspacing="0" align="center">
     <tr>
         <td>第一段文字</td>
             <td>第二段文字</td>
