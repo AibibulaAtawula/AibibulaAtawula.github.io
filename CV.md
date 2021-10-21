@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Abibulla Atawulla
 ---
 ## Personal Information
 <p align="left">Email: abibullaatawulla19@mails.ucas.ac.cn</p> <p align="right"> TEL: 0086 155 4185 3565</p>
