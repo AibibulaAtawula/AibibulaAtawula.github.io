@@ -17,7 +17,7 @@ author: Abibulla Atawulla
 navbar-links:
   About Me: 
        - Me: "aboutme"
-       - CV: "CV"
+       - CV: "/docs/CV.pdf"
   Research: "research"
   Publications: "publications"
   Resources: "resources"
