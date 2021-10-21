@@ -3,7 +3,18 @@ layout: page
 title: Abibulla Atawulla
 ---
 ## Personal Information
-<p align="left">Email: abibullaatawulla19@mails.ucas.ac.cn</p> <p align="right"> TEL: 0086 155 4185 3565</p>
+<!-- <p align="left">Email: abibullaatawulla19@mails.ucas.ac.cn</p> <p align="right"> TEL: 0086 155 4185 3565</p> -->
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+               Email: abibullaatawulla19@mails.ucas.ac.cn
+            </td>
+            <td>
+                 TEL: 0086 155 4185 3565
+            </td>
+        </tr>
+    </table>
+
 
 Personal Web: [aibibulaatawula.github.io](https://aibibulaatawula.github.io/)&ensp;&ensp;&ensp;Github: [AibibulaAtawula](https://www.github.com/AibibulaAtawula)
 
