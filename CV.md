@@ -14,7 +14,7 @@ title: Abibulla Atawulla
 <br/><br/><br/>
 
 <h2 id="education">EDUCATION</h2>
-      <table table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
+      <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
          <tr>
             <td style="text-align:lesft" colspan="1">Sept. 2021 - ongoing</td>
             <td style="text-align:center" rowspan="1">phD candidate</td>
