@@ -3,7 +3,7 @@ layout: post
 title: The Kite Runner
 subtitle: Excerpt from Wikipedia
 cover-img: /assets/img/post/thumb_TheKiteRunner.jpg
-thumbnail-img: /assets/post/cover_TheKiteRunner.jpg
+thumbnail-img: /assets/img/post/cover_TheKiteRunner.jpg
 share-img: /assets/img/path.jpg
 tags: [books]
 ---
