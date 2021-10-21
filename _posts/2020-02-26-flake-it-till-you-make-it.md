@@ -1,17 +1,24 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+title: My favorite Book | The Kite Runner
+subtitle: Excerpt from [Wikipedia](https://en.wikipedia.org/)
+cover-img: /assets/img/post/cover_TheKiteRunner.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [books]
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Because its themes of friendship, betrayal, guilt, redemption and the uneasy love between fathers and sons are universal themes, and not specifically Afghan, the book has been able to reach across cultural, racial, religious and gender gaps to resonate with readers of varying backgrounds.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+— Khaled Hosseini
+The whole story’s theme revolves around this piece of advice given by Baba to Amir, “When you kill a man, you steal a life,” Baba said. “You steal his wife’s right to a husband, rob his children of a father. When you tell a lie, you steal someone’s right to the truth. When you cheat, you steal the right to fairness.” In one way or another, all the characters involved have committed these offending crimes. Questioning to what extent Baba himself was able to keep up with his advice, to question whether he was harsh on Amir just because he hated himself for what he did, and ultimately the story ends with poor Hassan being the victim, Baba dying of guilt and an unresolved problem that Amir later discovers to pay the price and make things right again.
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+Khaled Hosseini identifies a number of themes that appear in The Kite Runner, but reviewers have focused on guilt and redemption. As a child, Amir fails to save Hassan in an act of cowardice and afterwards suffers from an all-consuming guilt. Even after leaving the country, moving to America, marrying, and becoming a successful writer, he is unable to forget the incident. Hassan is "the all-sacrificing Christ-figure, the one who, even in death, calls Amir to redemption". Following Hassan's death at the hands of the Taliban, Amir begins to redeem himself through the rescue of Hassan's son, Sohrab. Hosseini draws parallels during the search for Sohrab to create an impression of poetic justice; for example, Amir sustains a split lip after being severely beaten, similar to Hassan's harelip. Despite this, some critics questioned whether the protagonist had fully redeemed himself.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+Amir's motivation for the childhood betrayal is rooted in his insecurities regarding his relationship with his father. The relationship between parents and their children features prominently in the novel, and in an interview, Hosseini elaborated:
+
+Both [The Kite Runner and A Thousand Splendid Suns] are multigenerational, and so the relationship between parent and child, with all of its manifest complexities and contradictions, is a prominent theme. I did not intend this, but I am keenly interested, it appears, in the way parents and children love, disappoint, and in the end honor each other. In one way, the two novels are corollaries: The Kite Runner was a father-son story, and A Thousand Splendid Suns can be seen as a mother-daughter story.
+
+When adapting The Kite Runner for the theatre, Director Eric Rose stated that he was drawn into the narrative by the "themes of betraying your best friend for the love of your father", which he compared to Shakespearean literature. Throughout the story, Amir craves his father's affection;[22] his father, in turn, loves Amir but favors Hassan, going as far as to pay for plastic surgery to repair the latter's cleft lip.
+
+While President Hamid Karzai had signed an agreement to ban bacha bazi, corruption, lawlessness and poverty will allow the business to thrive. Moreover, combating the abuse of poor children is not seen as a priority by the Kabul administration. While Khaled Hosseini’s novel The Kite Runner exposed bacha bazi, greater international pressure is needed to bring the odious practice to an end.
