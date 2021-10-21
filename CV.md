@@ -4,17 +4,11 @@ title: About me
 ---
 ## Personal Information
 
-Email: abibullaatawulla19@mails.ucas.ac.cn
+Email: abibullaatawulla19@mails.ucas.ac.cn&ensp;&ensp;&ensp;TEL: 0086 155 4185 3565     
 
-TEL: 0086 155 4185 3565     
+Personal Web: [aibibulaatawula.github.io](https://aibibulaatawula.github.io/)&ensp;&ensp;&ensp;Github: [AibibulaAtawula](https://www.github.com/AibibulaAtawula)
 
-Personal Web: [aibibulaatawula.github.io](https://aibibulaatawula.github.io/)
-
-Github: [AibibulaAtawula](https://www.github.com/AibibulaAtawula)
-
-Nationality: Uygur                       
-
-Sex: male        
+Nationality: Uygur&ensp;&ensp;&ensp;Sex: male        
 
 Birthplace: Xinjiang Uygur Autonomous Region, China     
 
