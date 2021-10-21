@@ -2,7 +2,7 @@
 layout: page
 title: Abibulla Atawulla
 ---
-## Personal Information
+<h2 id="personal information">Personal Information</h2>
   <div style='float:left'>Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></div>
   <div style='float:right'>TEL: 0086 155 4185 3565</div>
   <div style='float:left'>Personal Website: <a href="https://aibibulaatawula.github.io/">[aibibulaatawula.github.io]</a></div>
@@ -12,8 +12,7 @@ title: Abibulla Atawulla
   <div style='float:left'>Address:  No. 40-1 Beijing Road, Urumqi,Xinjiang, 830011, China</div>
   <div style='float:right'>Sex: male</div>
   <br>
-  <br>
-## Education
+<h2 id="education">Education</h2>
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
