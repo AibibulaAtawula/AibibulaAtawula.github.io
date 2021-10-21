@@ -16,49 +16,20 @@ title: Abibulla Atawulla
 ## Education
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
-<table border="1">
-<tr>
-<td>row 1, cell 1</td>
-<td>row 1, cell 2</td>
-</tr>
-<tr>
-<td>&nbsp;</td>
-<td>row 2, cell 2</td>
-</tr>
-</table>
-<tr>
-  <div style='float:left'>Sept. 2021 - ongoing</div>
-  <div style='float:center'>phD candidate</div>
-  <div style='float:right'>computer application technology</div>
- </tr>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Title:** Research and application of Multi-domain Dialogue State Tracking
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Supervisors:**  Prof. Xi Zhou
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   GPA: -
-
 - **Sept. 2019 - Sept. 2021&ensp;&ensp;&ensp;&ensp;ME.s. degree&ensp;&ensp;&ensp;&ensp;computer application technology**                 
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn/)
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Title:** Research and application of Multi-domain Dialogue State Tracking
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Supervisors:**  Prof. Xi Zhou
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Grade:**   GPA: 3.48/5
-
 - **Sept. 2015 - Jul. 2019&ensp;&ensp;&ensp;&ensp;BE.s. degree &ensp;&ensp;&ensp;&ensp; computer application technology**       
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Liaoning Technical University ](https://www.lntu.edu.cn)
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Project Title:** Design and Implementation of Shopping Website Based on Django
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Supervisors:**  Dr. Wei Wang
-
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   Excellent (Ranked 1th.  among 150 students, GPA: 3.35/5
-
 ## Skills
 
 ##### Language Ability:
