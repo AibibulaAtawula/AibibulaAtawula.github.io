@@ -11,7 +11,7 @@ title: About me
 
 Sept. 2021 - ongoing       phD candidate in computer application technology     [University of Chinese Academy of Sciences ](ucas.ac.cn)
 
-Sept. 2019 - Sept. 2021    ME.s. in computer application technology      [University of Chinese Academy of Sciences ](https://www.ucas.ac.cn/)
+Sept. 2019 - Sept. 2021    ME.s. in computer application technology               [University of Chinese Academy of Sciences ](https://www.ucas.ac.cn/)
 
 Sept. 2015 - Jul. 2021        BE.s. in computer application technology      [Liaoning Technical University ](https://www.lntu.edu)
 
