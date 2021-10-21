@@ -14,30 +14,47 @@ title: Abibulla Atawulla
 <br/><br/><br/>
 
 <h2 id="education">EDUCATION</h2>
-<!--   <div style='float:left'>Sept. 2021 - ongoing</div>
-  <div style='text-align:center'>phD candidate</div>
-  <div style='float:right'>computer application technology</div> -->
-  <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0" align="center">
-    <tr>
-        <td float=left>Sept. 2021 - ongoing</td>
-        <td float=left>phD candidate</td>
-        <td float=right>computer application technology</td>
-    </tr>
-    <tr>
-        <td float=left>Sept. 2019 - Sept. 2021</td>
-        <td float=left>ME.s.  candidate</td>
-    </tr>
-    <tr>
-        <td float=left>Sept. 2019 - Sept. 2021</td>
-        <td float=left>ME.s.  candidate</td>
-        <td float=right>computer application technology</td>
-    </tr>
-        <tr>
-        <td float=left>Sept. 2015 - Jul. 2019</td>
-        <td float=left>BE.s. degree</td>
-        <td float=right>computer application technology</td>
-    </tr>
-</table>
+      <table table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
+         <tr>
+            <td style="text-align:lesft" colspan="1">Sept. 2021 - ongoing</td>
+            <td style="text-align:center" rowspan="1">phD candidate</td>
+            <td style="text-align:right" rowspan="1">computer application technology</td>
+         </tr>
+         <tr>
+            <td style="text-align:center" colspan="3">Title: Under Researching</td>
+         </tr>
+         <tr>
+            <td style="text-align:center" colspan="1">Supervisors:Prof. Xi Zhou</td>
+            
+            <td style="text-align:center"colspan="2"> GPA: - </td>
+         </tr>
+         <tr>
+            <td style="text-align:lesft" colspan="1">Sept. 2019 - Sept. 2021</td>
+            <td style="text-align:center" rowspan="1">phD candidate</td>
+            <td style="text-align:right" rowspan="1">computer application technology</td>
+         </tr>
+         <tr>
+            <td style="text-align:center" colspan="3">Title: Research and application of Multi-domain Dialogue State Tracking</td>
+         </tr>
+         <tr>
+            <td style="text-align:center" colspan="1">Supervisors:Prof. Xi Zhou</td>
+            
+            <td style="text-align:center"colspan="2"> GPA: - </td>
+         </tr>
+         <tr>
+            <td style="text-align:lesft" colspan="1">Sept. 2015 - Jul. 2019</td>
+            <td style="text-align:center" rowspan="1">SE.s. degree</td>
+            <td style="text-align:right" rowspan="1">computer sciences and technology</td>
+         </tr>
+         <tr>
+            <td style="text-align:center" colspan="3">Project Title: Design and Implementation of Shopping Website Based on Django</td>
+         </tr>
+         <tr>
+            <td style="text-align:center" colspan="1">Supervisors:Prof. Wei Wang</td>
+            
+            <td style="text-align:center"colspan="2">Excellent (Ranked 1th.  among 150 students,  GPA: 3.35/5 </td>
+         </tr>
+      </table>
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[University of Chinese Academy of Sciences ](https://www.ucas.ac.cn)
