@@ -68,7 +68,8 @@ title: Abibulla Atawulla
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[Liaoning Technical University ](https://www.lntu.edu.cn)
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp; **Project Title:** Design and Implementation of Shopping Website Based on Django
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Supervisors:**  Dr. Wei Wang
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   Excellent (Ranked 1th.  among 150 students, GPA: 3.35/5-->
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;**Grade:**   Excellent (Ranked 1th.  among 150 students, GPA: 3.35/5 
+-->
 
 ## Skills 
 ##### Language Ability:
