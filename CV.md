@@ -30,7 +30,7 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021<b/></td>
-        <td style="text-align:center" rowspan="1">phD candidate</td>
+        <td style="text-align:center" rowspan="1">ME.s. candidate</td>
         <td style="text-align:right" rowspan="1">computer application technology</td>
      </tr>
      <tr>
