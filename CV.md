@@ -15,7 +15,7 @@ title: Abibulla Atawulla
 
 <h2 id="education">EDUCATION</h2>
   <div style='float:left'>Birthplace: Xinjiang Uygur Autonomous Region, China</div>
-   <div style='text-align:center'>Nationality: Uygur</div>
+  <div style='text-align:center'>Nationality: Uygur</div>
   <div style='float:right'>Nationality: Uygur</div>
 
 - **Sept. 2021 - ongoing&ensp;&ensp;&ensp;&ensp;phD candidate&ensp;&ensp;&ensp;&ensp;computer application technology**
