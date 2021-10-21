@@ -20,8 +20,8 @@ title: Abibulla Atawulla
     <td style="text-align:right">0086 155 4185 3565</td>
   </tr>
   <tr>
-   <td style="text-align:left">[aibibulaatawula.github.io](https://aibibulaatawula.github.io/)</td>
-    <td style="text-align:right">Github: [AibibulaAtawula](https://www.github.com/AibibulaAtawula)</td>
+   <td style="text-align:left">Personal Website: <a href="https://aibibulaatawula.github.io/">[aibibulaatawula.github.io]</a></td>
+    <td style="text-align:right">Github: <a href="https://www.github.com/AibibulaAtawula/">[AibibulaAtawula]</a>Github: [AibibulaAtawula]</a></td>
   </tr>
    <tr>
    <td style="text-align:left">January</td>
