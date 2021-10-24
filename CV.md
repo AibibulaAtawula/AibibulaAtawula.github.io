@@ -62,22 +62,22 @@ title: Abibulla Atawulla
     <tr>
        <th style="text-align:lesft" colspan="1"><b>LANGUAGE</b></th>
        <th style="text-align:center" rowspan="1"><b>ABILITY</b></th>
-       <th style="text-align:right" rowspan="1"><b>NOTE </b></th>
+       <th style="text-align:center" rowspan="1"><b>NOTE </b></th>
     </tr>  
   <tr>
-        <td style="text-align:lesft" colspan="1"><b>Uygur</b></td>
-        <td style="text-align:center" rowspan="1"><b>Excellent</b></td>
-        <td style="text-align:right" rowspan="1"><b> Mother Tongue</b></td>
+        <td style="text-align:lesft" colspan="1">Uygur</td>
+        <td style="text-align:center" rowspan="1">Excellent</td>
+        <td style="text-align:right" rowspan="1">Mother Tongue</td>
   </tr>
   <tr>
-        <td style="text-align:lesft" colspan="1"><b>Chinese</b></td>
-        <td style="text-align:center" rowspan="1"><b>Excellent</b></td>
-        <td style="text-align:right" rowspan="1"><b>Education Language </b></td>
+        <td style="text-align:lesft" colspan="1">Chinese</td>
+        <td style="text-align:center" rowspan="1">Excellent</td>
+        <td style="text-align:right" rowspan="1">Education Language</td>
   </tr>
   <tr>
-        <td style="text-align:lesft" colspan="1"><b>English</b></td>
-        <td style="text-align:center" rowspan="1"><b>Good</b></td>
-        <td style="text-align:right" rowspan="1"><b>CET4: 515; CET6: 439; IELTS: Under Testing </b></td>
+        <td style="text-align:lesft" colspan="1">English</td>
+        <td style="text-align:center" rowspan="1">Good</td>
+        <td style="text-align:right" rowspan="1">CET4: 515; CET6: 439; IELTS: Under Testing</td>
   </tr>
 </table>
 
