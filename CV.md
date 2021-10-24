@@ -33,7 +33,7 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021</b></td>
-        <td style="text-align:center" rowspan="1"><b>ME.s. candidate</b></td>
+        <td style="text-align:center" rowspan="1"><b>MS.c. candidate</b></td>
         <td style="text-align:right" rowspan="1"><b>computer application technology</b></td>
      </tr>
      <tr>
@@ -45,7 +45,7 @@ title: Abibulla Atawulla
      </tr>
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2015 - Jul. 2019</b></td>
-        <td style="text-align:center" rowspan="1"><b>SE.s. degree</b></td>
+        <td style="text-align:center" rowspan="1"><b>B.Eng. degree</b></td>
         <td style="text-align:right" rowspan="1"><b>computer sciences and technology</b></td>
      </tr>
      <tr>
