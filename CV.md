@@ -2,6 +2,8 @@
 layout: page
 title: Abibulla Atawulla
 ---
+## Profile 
+ Aibibulla Atawulla is a Ph.D candidate at University of Chinese Academy of Sciences, China. Previously,he got bachelor  degree in Computer Science and Technology from Liaoning Technical University, China(awarded in 2015). During his studying for Master Degree, he qualified for Successive Master-doctor Program. Now(Sept. 2021), it’s first year for his Ph.D degree. 
 <h2 id="personal information">PERSONAL INFORMATION</h2>
   <div style='float:left'>Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></div>
   <div style='float:right'>TEL: 0086 155 4185 3565</div>
