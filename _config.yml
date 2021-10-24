@@ -16,10 +16,10 @@ author: Abibulla Atawulla
 
 navbar-links:
   About Me: 
-       - Me: "aboutme"
+       - Me: "CV"
        - CV: "/assets/CV.pdf"
-  Research: "research"
-  Publications: "publications"
+  Research: "-"
+  Publications: "-"
   Resources: "resources"
 
 #   Resources:
