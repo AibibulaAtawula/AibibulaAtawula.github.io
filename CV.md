@@ -56,15 +56,21 @@ title: Abibulla Atawulla
         <td style="text-align:center" colspan="2">Excellent (Ranked 1th.  among 150 students), GPA: 3.35/5 </td>
      </tr>
   </table>
-  <br/>
-## Skills 
+## SKILLS 
 ##### Language Ability:
+<table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
+     <tr>
+        <td style="text-align:lesft" colspan="1"><b>Sept. 2021 - ongoing</b></td>
+        <td style="text-align:center" rowspan="1"><b>phD candidate</b></td>
+        <td style="text-align:right" rowspan="1"><b>computer application technology</b></td>
+     </tr>
+   </table>
 
 | LANGUAGE |  ABILITY  |                             NOTE                             |
 | :------: | :-------: | :----------------------------------------------------------: |
 |  Uygur   | Excellent |                        Mother Tongue                         |
 | Chinese  | Excellent |                      Education Language                      |
 | English  |   Good    | CET4: 515&ensp;&ensp;CET6: 439&ensp;&ensp;IELTS: Under Testing |
-
+##### Language Ability:
 
 
