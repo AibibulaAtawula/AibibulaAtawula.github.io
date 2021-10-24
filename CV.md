@@ -2,8 +2,7 @@
 layout: page
 title: Abibulla Atawulla
 ---
-## Profile 
- Aibibulla Atawulla is a Ph.D candidate at University of Chinese Academy of Sciences, China. Previously,he got bachelor  degree in Computer Science and Technology from Liaoning Technical University, China(awarded in 2015). During his studying for Master Degree, he qualified for Successive Master-doctor Program. Now(Sept. 2021), it’s first year for his Ph.D degree. 
+
 <h2 id="personal information">PERSONAL INFORMATION</h2>
   <div style='float:left'>Email: <a href="mailto:abibullaatawulla19@mails.ucas.ac.cn" target="_top">abibullaatawulla19@mails.ucas.ac.cn</a></div>
   <div style='float:right'>TEL: 0086 155 4185 3565</div>
@@ -15,8 +14,10 @@ title: Abibulla Atawulla
   <div style='float:right'>Sex: male</div>
 <br/><br/><br/>
 
-<h2 id="education">EDUCATION</h2>
+## PROFILE 
+ <div style="text-align:justify;"> Aibibulla Atawulla is a Ph.D candidate at University of Chinese Academy of Sciences, China. Previously,he got bachelor  degree in Computer Science and Technology from Liaoning Technical University, China(awarded in 2015). During his studying for Master Degree, he qualified for Successive Master-doctor Program. Now(Sept. 2021), it’s first year for his Ph.D degree. </div>
 
+<h2 id="education">EDUCATION</h2>
   <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2021 - ongoing</b></td>
