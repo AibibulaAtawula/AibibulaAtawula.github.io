@@ -17,7 +17,7 @@ title: Abibulla Atawulla
 ## PROFILE 
  <div style="text-align:justify;"> Aibibulla Atawulla is a Ph.D candidate at University of Chinese Academy of Sciences, China. Previously,he got bachelor  degree in Computer Science and Technology from Liaoning Technical University, China(awarded in 2015). During his studying for Master Degree, he qualified for Successive Master-doctor Program. Now(Sept. 2021), it’s first year for his Ph.D degree. </div>
 <br/>
-<h2 id="education">EDUCATION</h2>
+## EDUCATION
   <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2021 - ongoing</b></td>
@@ -59,12 +59,27 @@ title: Abibulla Atawulla
 ## SKILLS 
 ##### Language Ability:
 <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
-     <tr>
-        <td style="text-align:lesft" colspan="1"><b>Sept. 2021 - ongoing</b></td>
-        <td style="text-align:center" rowspan="1"><b>phD candidate</b></td>
-        <td style="text-align:right" rowspan="1"><b>computer application technology</b></td>
-     </tr>
-   </table>
+    <tr>
+       <th style="text-align:lesft" colspan="1"><b>LANGUAGE</b></th>
+       <th style="text-align:center" rowspan="1"><b>ABILITY</b></th>
+       <th style="text-align:right" rowspan="1"><b>NOTE </b></th>
+    </tr>  
+  <tr>
+        <td style="text-align:lesft" colspan="1"><b>Uygur</b></td>
+        <td style="text-align:center" rowspan="1"><b>Excellent</b></td>
+        <td style="text-align:right" rowspan="1"><b> Mother Tongue</b></td>
+  </tr>
+  <tr>
+        <td style="text-align:lesft" colspan="1"><b>Chinese</b></td>
+        <td style="text-align:center" rowspan="1"><b>Excellent</b></td>
+        <td style="text-align:right" rowspan="1"><b>Education Language </b></td>
+  </tr>
+  <tr>
+        <td style="text-align:lesft" colspan="1"><b>English</b></td>
+        <td style="text-align:center" rowspan="1"><b>Good</b></td>
+        <td style="text-align:right" rowspan="1"><b>CET4: 515; CET6: 439; IELTS: Under Testing </b></td>
+  </tr>
+</table>
 
 | LANGUAGE |  ABILITY  |                             NOTE                             |
 | :------: | :-------: | :----------------------------------------------------------: |
