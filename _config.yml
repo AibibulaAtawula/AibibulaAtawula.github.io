@@ -18,8 +18,9 @@ navbar-links:
   About Me: 
        - Me: "CV.html"
        - CV: "/assets/CV.pdf"
+  
+  Publications: "publications"
   Research: "-"
-  Publications: "-"
   Resources: "-"
 
 #   Resources:
