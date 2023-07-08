@@ -20,8 +20,8 @@ navbar-links:
        - CV: "/assets/CV.pdf"
   
   Publications: "publications"
-  Research: "-"
-  Resources: "-"
+  Research: "research"
+  Resources: "resources"
 
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
