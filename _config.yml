@@ -15,13 +15,12 @@ author: Abibulla Atawulla
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: 
-       - Me: "CV.html"
-       - CV: "/assets/CV.pdf"
-  
+  # About Me: 
+  About Me: "CV.html"
   Publications: "publications"
   Research: "research"
   Resources: "resources"
+  CV: "/assets/CV.pdf"
 
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
