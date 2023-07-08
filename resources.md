@@ -24,7 +24,7 @@ title: Resources and Tools
 - Quality Estimation for Language Output Applications Tutorial - Presented at COLING 2016, Osaka, Japan (11/12/2016) [[LINK](http://coling2016.anlp.jp/tutorials/T4/)]
 - Translation Quality Estimation - Presented at PROPOR 2016, Tomar, Portugal (13/07/2016) [[LINK](http://propor2016.di.fc.ul.pt/?page_id=705)]
 - QuEst++ Tutorial - Presented at Alicante University (21/01/2016) [PDF] [SLIDES]
-- 学术报告-基于槽位共享跨度预测的多领域对话状态追踪模型 （2023-07-07 CCF乌鲁木齐-第九期学术沙龙）[[LINK](./assets/CCF-乌鲁木齐-沙龙.pdf)]
+- 学术报告-基于槽位共享跨度预测的多领域对话状态追踪模型 （2023-07-07 CCF乌鲁木齐-第九期学术沙龙）[[LINK](./assets/CCF乌鲁木齐-沙龙.pdf)]
 - ICASSP 2023-slide [[LINK](./assets/icassp-slide.pdf)]
 - ICASSP 2023-poster [[LINK](./assets/icassp-poster.pdf)]
 
