@@ -7,19 +7,53 @@ use-site-title: true
 <div style="text-align:justify;"> Welcome to my personal website. I am a phD candidate at University of Chinese Academy of Sciences (UCAS), China. I will share my life on this website, and I hope I can make some friends come from different countries. I like play basketball, although I am not very tall. My favorite basketball star is Luca Donic, who's hardworking and comprehensive basketball skills inspried me. Now I live in Urumqi, China.</div>
 
 
-   <p>
-        visits: <span id="visitCount">0</span>
-        &nbsp;&nbsp; <!-- 添加一点间距 -->
-        likes: <span id="likeCount">0</span>
-        <i id="likeBtn" class="fas fa-thumbs-up" onclick="like()"></i>
-    </p>
+      <style>
+        body {
+            text-align: center;
+            color: #333;
+            font-family: 'Arial', sans-serif;
+        }
+
+        h1 {
+            color: #e44d26; /* Bright orange-red */
+        }
+
+        .likes-visits-container {
+            margin: 20px;
+        }
+
+        span {
+            font-weight: bold;
+            font-size: 18px;
+            color: #0077cc; /* Bright blue */
+        }
+
+        #likeBtn {
+            cursor: pointer;
+            color: #0077cc; /* Bright blue */
+            margin-left: 10px; /* Add some spacing */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Welcome to My Website</h1>
+
+    <div class="likes-visits-container">
+        <p>
+            Visits: <span id="visitCount">0</span>
+            &nbsp;&nbsp; <!-- Add some spacing -->
+            Likes: <span id="likeCount">0</span>
+            <i id="likeBtn" class="fas fa-thumbs-up" onclick="like()"></i>
+        </p>
+    </div>
 
     <script>
-        // 模拟后端数据存储
+        // Simulate backend data storage
         const storageKey = "likeAndVisitData";
         let data = JSON.parse(localStorage.getItem(storageKey)) || { visitCount: 0, likeCount: 0 };
 
-        // 初始化页面数据
+        // Initialize page data
         document.getElementById("visitCount").innerHTML = data.visitCount;
         document.getElementById("likeCount").innerHTML = data.likeCount;
 
@@ -29,20 +63,22 @@ use-site-title: true
             saveData();
         }
 
-        // 模拟访问计数，实际中需要在后端处理
+        // Simulate visit count, in reality, should be handled on the backend
         function simulateVisit() {
             data.visitCount++;
             document.getElementById("visitCount").innerHTML = data.visitCount;
             saveData();
         }
 
-        // 保存数据到LocalStorage
+        // Save data to LocalStorage
         function saveData() {
             localStorage.setItem(storageKey, JSON.stringify(data));
         }
 
-        // 页面加载时触发模拟访问
+        // Trigger simulated visit on page load
         window.onload = simulateVisit;
     </script>
+
+</body>
 
 
