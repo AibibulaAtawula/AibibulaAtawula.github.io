@@ -5,3 +5,28 @@ subtitle: phD candidate, University of Chinese Academy of Sciences
 use-site-title: true
 ---
 <div style="text-align:justify;"> Welcome to my personal website. I am a phD candidate at University of Chinese Academy of Sciences (UCAS), China. I will share my life on this website, and I hope I can make some friends come from different countries. I like play basketball, although I am not very tall. My favorite basketball star is Luca Donic, who's hardworking and comprehensive basketball skills inspried me. Now I live in Urumqi, China.</div>
+ <p>访问次数：<span id="visitCount">0</span></p>
+    
+    <p>点赞数：<span id="likeCount">0</span> <span id="likeBtn" onclick="like()">点赞</span></p>
+
+    <script>
+        // 访问计数
+        let visitCount = 0;
+
+        // 点赞计数
+        let likeCount = 0;
+
+        function like() {
+            likeCount++;
+            document.getElementById("likeCount").innerHTML = likeCount;
+        }
+
+        // 模拟访问计数，实际中需要在后端处理
+        function simulateVisit() {
+            visitCount++;
+            document.getElementById("visitCount").innerHTML = visitCount;
+        }
+
+        // 页面加载时触发模拟访问
+        window.onload = simulateVisit;
+    </script>
