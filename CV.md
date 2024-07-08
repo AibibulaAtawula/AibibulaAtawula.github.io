@@ -20,21 +20,21 @@ title: Abibulla Atawulla
 ## EDUCATION
   <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
      <tr>
-        <td style="text-align:lesft" colspan="1"><b>Sept. 2021 - ongoing</b></td>
-        <td style="text-align:center" rowspan="1"><b>phD candidate</b></td>
-        <td style="text-align:right" rowspan="1"><b>computer application technology</b></td>
+        <td style="text-align:lesft" colspan="1"><b>Sept. 2021 - June 2024</b></td>
+        <td style="text-align:center" rowspan="1"><b>PhD</b></td>
+        <td style="text-align:right" rowspan="1"><b>Computer Applied Technology</b></td>
      </tr>
      <tr>
-        <td style="text-align:center" colspan="3">Title: Under Researching</td>
+        <td style="text-align:center" colspan="3">Title: Research On Key Technologies of Multi-Domain Task- oriented Dialogue Systems.</td>
      </tr>
      <tr>
         <td style="text-align:center" colspan="1">Supervisors:Prof. Xi Zhou</td>
-        <td style="text-align:center" colspan="2"> GPA: - </td>
+        <td style="text-align:center" colspan="2"> GPA: 3.49 </td>
      </tr>
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2019 - Sept. 2021</b></td>
         <td style="text-align:center" rowspan="1"><b>MS.c. candidate</b></td>
-        <td style="text-align:right" rowspan="1"><b>computer application technology</b></td>
+        <td style="text-align:right" rowspan="1"><b>Computer Applied Technology</b></td>
      </tr>
      <tr>
         <td style="text-align:center" colspan="3">Title: Research and application of Multi-domain Dialogue State Tracking</td>
@@ -46,7 +46,7 @@ title: Abibulla Atawulla
      <tr>
         <td style="text-align:lesft" colspan="1"><b>Sept. 2015 - Jul. 2019</b></td>
         <td style="text-align:center" rowspan="1"><b>B.Eng. degree</b></td>
-        <td style="text-align:right" rowspan="1"><b>computer sciences and technology</b></td>
+        <td style="text-align:right" rowspan="1"><b>Computer Sciences and Technology</b></td>
      </tr>
      <tr>
         <td style="text-align:center" colspan="3">Project Title: Design and Implementation of Shopping Website Based on Django</td>
