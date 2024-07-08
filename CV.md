@@ -15,7 +15,7 @@ title: Abibulla Atawulla
 <br/><br/><br/>
 
 ## PROFILE 
- <div style="text-align:justify;"> Aibibulla Atawulla is a Ph.D candidate at University of Chinese Academy of Sciences, China. Previously,he got bachelor  degree in Computer Science and Technology from Liaoning Technical University, China(awarded in 2015). During his studying for Master Degree, he qualified for Successive Master-doctor Program. Now(Sept. 2021), it’s first year for his Ph.D degree. </div>
+ <div style="text-align:justify;"> Aibibula Atawula earned his Ph.D. degree in Computer Applied Technology at the University of Chinese Academy of Sciences, China. Previously, he received a bachelor's degree in Computer Science and Technology from Liaoning Technical University, China, awarded in 2015. During his master's studies, he qualified for the Successive Master-Doctor Program, and has completed his Ph.D. studies in 2024. During his doctoral studies, his research focused on task-oriented dialogue systems, exploring domain diversity, low-resource learning, and continuous learning.       </div>
 <br/>
 ## EDUCATION
   <table border=1 width="100%" rules=none  frame=void cellpadding="0" cellspacing="0">
