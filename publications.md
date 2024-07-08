@@ -3,14 +3,13 @@ layout: page
 title: Publications
 ---
 ## 2024
-
   Abibulla Atawulla, Fengyi Yang, Yating Yang,  Yi Wang and Xi Zhou (2024). Dynamic Schema-Constrained Multi-Domain Dialogue State Tracking Model. Journal  of  Chinese  Computer & Systems, JCCS (Chinese).
   
   Zhengdong Luo,  Abibulla Atawulla, Fengyi Yang, Yongqing Zhu, Yixiao Ren, Yunfei Han and Xi Zhou. TabCGOK: Intra-Class Groups Retrieval and Inter-Class Ordinal Knowledge Augmented Network for Ordinal Tabular Data Prediction.（https://www.ecai2024.eu/） ECAI 2024 (CCF-B). 
 
-    Guo Xinyu, Ma Bo, Abibulla Atawulla, Yang Fengyi, Zhou Xi (2024). Dynamic Heterogeneous Graph Enhanced Cascade Decoding Event Extraction Model. Computer Engineering (Chinese).
+  Guo Xinyu, Ma Bo, Abibulla Atawulla, Yang Fengyi, Zhou Xi (2024). Dynamic Heterogeneous Graph Enhanced Cascade Decoding Event Extraction Model. Computer Engineering (Chinese).
 
-    Abibulla Atawulla, Xi Zhou, Yating Yang and Fengyi Yang (2024). A Parameter-efficient Continual Learning Methods for Task-oriented dialogue Systems with Instructions. Manuscript is under preparation.
+  Abibulla Atawulla, Xi Zhou, Yating Yang and Fengyi Yang (2024). A Parameter-efficient Continual Learning Methods for Task-oriented dialogue Systems with Instructions. Manuscript is under preparation.
 
     
 ## 2023
