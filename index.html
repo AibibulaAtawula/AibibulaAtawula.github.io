@@ -44,16 +44,16 @@ use-site-title: true
         </p>
     </div>
       
-    <script>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=AgogxdSVa1eEZoq2lbJJ-QyC999aaN8ab6h0kaVlQXg"></script>
-          
+    <script type="text/javascript">
         // Simulate backend data storage
         const storageKey = "likeAndVisitData";
         let data = JSON.parse(localStorage.getItem(storageKey)) || { visitCount: 0, likeCount: 0 };
 
         // Initialize page data
-        document.getElementById("visitCount").innerHTML = data.visitCount;
-        document.getElementById("likeCount").innerHTML = data.likeCount;
+        function initializePage() {
+            document.getElementById("visitCount").innerHTML = data.visitCount;
+            document.getElementById("likeCount").innerHTML = data.likeCount;
+        }
 
         function like() {
             data.likeCount++;
@@ -74,7 +74,10 @@ use-site-title: true
         }
 
         // Trigger simulated visit on page load
-        window.onload = simulateVisit;
+        window.onload = function() {
+            initializePage();
+            simulateVisit();
+        };
     </script>
 
 </body>
