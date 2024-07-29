@@ -287,12 +287,20 @@
     <p>Created by: <a href="mailto:aibibulaatawula19@mails.ucas.ac.cn">@Abibulla</a>  / <a href="https://aibibulaatawula.github.io/">Personal Website</a> / 2021 </p>
     <p>Update date:2021-10-26
   </footer>
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=AgogxdSVa1eEZoq2lbJJ-QyC999aaN8ab6h0kaVlQXg">
+  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=AgogxdSVa1eEZoq2lbJJ-QyC999aaN8ab6h0kaVlQXg"></script>
+
+  <!-- 调整大小的脚本 -->
+  <script>
     window.onload = function() {
-    var clustrMap = document.getElementById('clstr_globe');
-      clustrMap.style.width = '30px';  // 设置宽度
-      clustrMap.style.height = '30px'; // 设置高度
-  };
-</script>
+      // 延迟调整，以确保 ClustrMaps 脚本已加载
+      setTimeout(function() {
+        var clustrMap = document.getElementById('clstr_globe');
+        if (clustrMap) {
+          clustrMap.style.width = '300px';  // 设置宽度
+          clustrMap.style.height = '300px'; // 设置高度
+        }
+      }, 1000); // 延迟 1 秒以确保组件完全加载
+    };
+  </script>
 </body>
 </html>
